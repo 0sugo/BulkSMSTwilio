@@ -1,2 +1,2 @@
 # BulkSMSTwilio
-# BulkSMSTw
+# BulkSMS
