@@ -4,7 +4,6 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 q
 q
-q
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
