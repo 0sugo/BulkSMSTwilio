@@ -8,8 +8,6 @@ def print_hi(name):
 
 q
 q
-
-q
 q
 q
 q
